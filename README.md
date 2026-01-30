@@ -4,7 +4,8 @@
 Ingeniero Informático especializado en Data Analytics, con más de 12 años de experiencia en la gestión de infraestructuras críticas. Experto en transformar grandes volúmenes de datos operativos en indicadores de Alta Disponibilidad.
 
 ## Mis Proyectos
-Estructura de Proyecto: Análisis de Disponibilidad y Rendimiento de Red
+
+## Mis ProyectosEstructura de Proyecto: Análisis de Disponibilidad y Rendimiento de Red
 1. Descripción del Proyecto
 Este proyecto analiza el rendimiento de una infraestructura crítica mediante el procesamiento de logs de servidores y dispositivos de red. El objetivo es identificar patrones de fallos, picos de tráfico y optimizar el cumplimiento de los SLA.
 
@@ -37,7 +38,8 @@ Creación de un dashboard interactivo que permite visualizar el estado de salud 
 
 Optimización del uso de recursos en servidores virtuales, maximizando la eficiencia energética.
 
-Proyecto 2: Análisis de Correlación de Fallas y Optimización de Disponibilidad en Redes MPLS
+
+## Proyecto 2: Análisis de Correlación de Fallas y Optimización de Disponibilidad en Redes MPLS
 1. Descripción del Proyecto
 Este proyecto presenta un análisis detallado sobre la recurrencia de interrupciones en servicios de conectividad crítica. A través del cruce de datos de monitoreo (Zabbix/Meraki) y tickets de incidentes, se identificó la causa raíz de la degradación del servicio, permitiendo transitar de un soporte reactivo a una estrategia de mitigación de riesgos.
 
