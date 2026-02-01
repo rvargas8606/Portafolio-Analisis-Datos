@@ -1,0 +1,18 @@
+title: "Reinier Vargas | Data Analytics Infraestructure TI Manager"
+description: "Gestor NOC → Data Analyst | SLAs, MTTR y Monitoreo"
+url: "https://rvargas8606.github.io"
+baseurl: "/Portafolio-Analisis-Datos"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-include-cache
+
+locale: "es"
+
+author:
+  name: "Reinier Vargas"
+  bio: "Gestor de Monitoreo NOC especializado en análisis de datos operativos."
+  links:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/"
