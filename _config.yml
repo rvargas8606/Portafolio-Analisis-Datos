@@ -87,3 +87,15 @@ minimal_mistakes_skin: "default"
 # SEO básico (puedes ampliarlo luego)
 # =========================
 # Si más adelante agregas jekyll-seo-tag, lo declaras en plugins y aquí podrás ajustar metadatos
+# =========================
+# Navegación principal
+# =========================
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Proyectos"
+    url: /portfolio/
+  - title: "Sobre mí"
+    url: /about/
+  - title: "Contacto"
+    url: /contact/
