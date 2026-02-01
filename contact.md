@@ -4,13 +4,13 @@ title: "Contacto"
 permalink: /contact/
 ---
 
-📧 **Correo**  
+ **Correo**  
 rvargas86@email.com
 
-🔗 **LinkedIn**  
+ **LinkedIn**  
 https://www.linkedin.com/in/reinier-vargas-jardines
 
-📍 **Ubicación**  
+ **Ubicación**  
 Monterrey, México
 
 Siempre abierto a conversar sobre oportunidades en **Data Analytics**.
