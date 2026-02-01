@@ -3,7 +3,7 @@ layout: splash
 title: "Data Analyst con experiencia en operación NOC"
 excerpt: "Transformo datos operativos en información clara para mejorar decisiones, SLAs y MTTR."
 header:
-  overlay_image: /assets/img/portafolio.jpg
+  overlay_image: /assets/img/banner.jpg
   overlay_color: "#000"
   overlay_filter: 0.5
   actions:
