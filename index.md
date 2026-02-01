@@ -13,7 +13,7 @@ header:
       url: /about/
 ---
 
-## 👋 Hola, soy Reinier
+## Hola, soy Reinier
 
 Soy **Ingeniero Informático** y actualmente me desempeño como  
 **Gestor del Grupo de Monitoreo de Eventos (NOC)**.
@@ -21,12 +21,12 @@ Soy **Ingeniero Informático** y actualmente me desempeño como
 Mi especialización en **Análisis de Datos** me permite convertir información
 operativa compleja en **insights accionables** para equipos técnicos y de negocio.
 
-### 🔍 Qué hago como Data Analyst
+### Qué hago como Data Analyst
 - Analizo datos de eventos, incidentes y métricas operativas
 - Identifico patrones que impactan SLAs, MTTR y disponibilidad
 - Comunico resultados para apoyar decisiones informadas
 
-### 🧠 Cómo trabajo
+### Cómo trabajo
 1. Comprendo el problema de negocio u operación
 2. Analizo datos históricos relevantes
 3. Identifico patrones, causas y oportunidades
