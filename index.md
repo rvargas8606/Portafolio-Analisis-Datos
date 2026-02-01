@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Data Analyst con experiencia en operación NOC"
+title: "Analista de Datos con experiencia en operación NOC"
 excerpt: "Transformo datos operativos en información clara para mejorar decisiones, SLAs y MTTR."
 header:
   overlay_image: /assets/img/banner.jpg
@@ -11,17 +11,19 @@ header:
       url: /portfolio/
     - label: "Sobre mí"
       url: /about/
+    - label: "Contacto"
+      url: /contact/  
 ---
 
 ## Hola, soy Reinier
 
 Soy **Ingeniero Informático** y actualmente me desempeño como  
-**Gestor del Grupo de Monitoreo de Eventos (NOC)**.
+**Gestor del Grupo de Monitoreo y Eventos del NOC**.
 
 Mi especialización en **Análisis de Datos** me permite convertir información
 operativa compleja en **insights accionables** para equipos técnicos y de negocio.
 
-### Qué hago como Data Analyst
+### Qué hago como Analista de Datos
 - Analizo datos de eventos, incidentes y métricas operativas
 - Identifico patrones que impactan SLAs, MTTR y disponibilidad
 - Comunico resultados para apoyar decisiones informadas
