@@ -1,8 +1,8 @@
 # =========================
 # Identidad del sitio
 # =========================
-title: "Reinier Vargas | Data Analytics Infraestructure TI Manager"
-description: "Gestor NOC → Data Analyst | SLAs, MTTR y Monitoreo"
+title: "Reinier Vargas | Data Analytics Infraestructure IT Manager"
+description: "Manager NOC → Data Analyst | SLAs, MTTR y Monitoreo"
 url: "https://rvargas8606.github.io"            # dominio base (NO terminar con /)
 baseurl: "/Portafolio-Analisis-Datos"           # nombre del repositorio (SÍ comenzar con /)
 
@@ -26,11 +26,11 @@ locale: "es"
 # Autor
 # =========================
 author:
-  name: "Reinier Vargas"
+  name: "Reinier Vargas Jardines"
   bio: "Gestor de Monitoreo NOC especializado en análisis de datos operativos."
   links:
     - label: "LinkedIn"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/reinier-vargas-jardines"
 
 # =========================
 # Colecciones (para proyectos)
