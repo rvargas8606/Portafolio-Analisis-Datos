@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
  **Correo**  
-rvargas86@email.com
+rvargas86@gmail.com
 
  **LinkedIn**  
 https://www.linkedin.com/in/reinier-vargas-jardines
