@@ -1,6 +1,6 @@
 ---
-title: "Reducción de falsos positivos en alertas NOC"
-excerpt: "Análisis de eventos para mejorar priorización operativa y reducir ruido en monitoreo"
+title: "Análisis de eventos para reducir ruido operativo en monitoreo NOC"
+excerpt: "Priorización basada en datos para mejorar la atención de incidentes críticos"
 ---
 
 ## 📌 Contexto del problema
