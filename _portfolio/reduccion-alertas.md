@@ -50,3 +50,7 @@ y mejorar la **priorización operativa** de eventos críticos.
 La reducción de ruido operativo no depende de eliminar alertas,
 sino de **entender su contexto y su valor real para la decisión operativa**.
 ``
+## ✅ Decisiones habilitadas por el análisis
+- Definir qué tipos de alertas requieren atención inmediata
+- Priorizar eventos críticos sobre alertas repetitivas
+- Justificar ajustes en reglas de monitoreo basados en evidencia
