@@ -1,6 +1,6 @@
 ---
-title: "Análisis de disponibilidad y MTTR en infraestructura TI"
-excerpt: "Evaluación histórica de incidentes para mejorar SLAs y toma de decisiones operativas"
+title: "Análisis de incidentes para optimizar MTTR y disponibilidad de servicios"
+excerpt: "Uso de datos históricos para mejorar SLAs y decisiones operativas"
 ---
 
 ## 📌 Contexto del problema
