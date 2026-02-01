@@ -1,18 +1,89 @@
+# =========================
+# Identidad del sitio
+# =========================
 title: "Reinier Vargas | Data Analytics Infraestructure TI Manager"
 description: "Gestor NOC → Data Analyst | SLAs, MTTR y Monitoreo"
-url: "https://rvargas8606.github.io"
-baseurl: "/Portafolio-Analisis-Datos"
+url: "https://rvargas8606.github.io"            # dominio base (NO terminar con /)
+baseurl: "/Portafolio-Analisis-Datos"           # nombre del repositorio (SÍ comenzar con /)
 
+# =========================
+# Tema (Minimal Mistakes)
+# =========================
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
+# =========================
+# Plugins requeridos
+# =========================
 plugins:
   - jekyll-include-cache
 
+# =========================
+# Localización
+# =========================
 locale: "es"
 
+# =========================
+# Autor
+# =========================
 author:
   name: "Reinier Vargas"
   bio: "Gestor de Monitoreo NOC especializado en análisis de datos operativos."
   links:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/"
+
+# =========================
+# Colecciones (para proyectos)
+# =========================
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# =========================
+# Valores por defecto (Front Matter)
+# =========================
+defaults:
+  # Páginas (home, about, contact, etc.)
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: false
+      read_time: false
+      share: false
+
+  # Entradas de la colección 'portfolio' (case studies)
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      toc: true
+      read_time: true
+      share: false
+      classes: wide
+
+# =========================
+# Navegación (opcional; aparecerá como menú superior)
+# =========================
+# main:
+#   - title: "Inicio"
+#     url: /
+#   - title: "Proyectos"
+#     url: /portfolio/
+#   - title: "Cómo trabajo"
+#     url: /about/
+#   - title: "Contacto"
+#     url: /contact/
+
+# =========================
+# Apariencia del tema (skin)
+# =========================
+minimal_mistakes_skin: "default"
+
+# =========================
+# SEO básico (puedes ampliarlo luego)
+# =========================
+# Si más adelante agregas jekyll-seo-tag, lo declaras en plugins y aquí podrás ajustar metadatos
