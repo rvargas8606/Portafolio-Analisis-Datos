@@ -1,31 +1,50 @@
 ---
 title: "Análisis de disponibilidad y MTTR en infraestructura TI"
-excerpt: "Evaluación de incidentes para mejorar SLAs operativos"
+excerpt: "Evaluación histórica de incidentes para mejorar SLAs y toma de decisiones operativas"
 ---
 
-## 📌 Contexto
-La infraestructura TI presenta incidentes recurrentes que impactan
-los indicadores de disponibilidad y cumplimiento de SLA.
+## 📌 Contexto del problema
+La infraestructura TI presenta incidentes recurrentes que afectan los indicadores de
+**disponibilidad** y el cumplimiento de **acuerdos de nivel de servicio (SLA)**.
+Sin un análisis histórico estructurado, la gestión tiende a ser reactiva.
 
-## 🎯 Objetivo
-Analizar incidentes históricos para identificar patrones que permitan
-reducir tiempos de resolución (MTTR).
+## ❗ Problema
+La ausencia de visibilidad analítica sobre incidentes provoca:
+- Dificultad para identificar servicios críticos
+- Escasa priorización basada en impacto
+- Limitada capacidad de prevención
 
-## 🧪 Datos
-Registros históricos de incidentes, severidad, duración y servicios afectados,
-anonimizados por razones de confidencialidad.
+## 🎯 Objetivo del análisis
+Analizar incidentes históricos para identificar patrones que permitan:
+- Reducir el **tiempo medio de resolución (MTTR)**
+- Mejorar la **disponibilidad de los servicios**
+- Apoyar decisiones operativas y de mejora continua
 
-## 🛠️ Proceso
-- Análisis de incidentes por severidad
-- Cálculo de MTTR
-- Identificación de servicios más impactados
-- Análisis temporal de ocurrencia
+## 🧪 Datos utilizados
+- Registros históricos de incidentes
+- Variables: severidad, duración, servicio afectado, fecha y hora
+- Datos **anonimizados** por confidencialidad
 
-## 📈 Resultados
-- Servicios críticos concentraban la mayor duración de incidentes
-- Identificación de ventanas horarias de mayor riesgo
-- Insumos para mejoras en planificación operativa
+## 🔍 Enfoque analítico
+1. **Cálculo de indicadores**
+   - MTTR por severidad y por servicio
+   - Frecuencia de incidentes
+2. **Análisis temporal**
+   - Identificación de ventanas horarias de mayor riesgo
+   - Detección de recurrencia
+3. **Priorización por impacto**
+   - Servicios con mayor contribución al tiempo total de indisponibilidad
+
+## 📈 Hallazgos clave
+- Un número reducido de servicios concentraba la mayor duración de incidentes
+- Ciertas franjas horarias presentaban mayor recurrencia
+- La severidad media tenía un impacto acumulado mayor que incidentes críticos aislados
+
+## 💡 Impacto del análisis
+- Definición de focos prioritarios de mejora
+- Insumos para optimizar planificación operativa
+- Base para estrategias preventivas y mejora de SLAs
 
 ## 🧠 Aprendizajes
-El análisis histórico permite pasar de una gestión reactiva
-a una toma de decisiones preventiva.
+El análisis de incidentes históricos permite pasar de una
+gestión reactiva a una **toma de decisiones basada en datos**.
