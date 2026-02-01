@@ -13,4 +13,4 @@ https://www.linkedin.com/in/reinier-vargas-jardines
  **Ubicación**  
 Monterrey, México
 
-Siempre abierto a conversar sobre oportunidades en **Data Analytics**.
+Siempre abierto a conversar sobre oportunidades en **Análisis de Datos**.
