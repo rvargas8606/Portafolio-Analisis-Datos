@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Soy **Ingeniero Informático** con experiencia en **operación y monitoreo de infraestructura TI (NOC)**.  
-Actualmente me especializo como **Data Analyst**, enfocado en transformar datos operativos en información clara y accionable.
+Actualmente me especializo como **Analista de Datos**, enfocado en transformar datos operativos en información clara y accionable.
 
 ###  Experiencia destacada
 - Gestión de eventos e incidentes en entornos 24/7
