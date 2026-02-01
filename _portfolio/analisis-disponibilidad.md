@@ -48,3 +48,7 @@ Analizar incidentes históricos para identificar patrones que permitan:
 ## 🧠 Aprendizajes
 El análisis de incidentes históricos permite pasar de una
 gestión reactiva a una **toma de decisiones basada en datos**.
+## ✅ Decisiones habilitadas por el análisis
+- Identificar servicios prioritarios para planes de mejora
+- Ajustar la planificación operativa según ventanas de mayor riesgo
+- Enfocar esfuerzos de mejora donde el impacto en SLA es mayor
