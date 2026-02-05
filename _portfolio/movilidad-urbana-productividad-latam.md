@@ -27,7 +27,7 @@ Se trabajó con dos datasets reales:
 - **OECD Cities**  
   PIB per cápita, desempleo, contaminación (PM2.5) y población.
 
-Ambas fuentes fueron limpiadas, estandarizadas y combinadas en un único dataset por ciudad y año [1](https://zentius-my.sharepoint.com/personal/rvargas_zentius_com/_layouts/15/Doc.aspx?sourcedoc=%7B15B7CC12-4F0A-42CA-A2AB-488B1FC70AF4%7D&file=Proyecto%205%20Movilidad%20Urbana.docx&action=default&mobileredirect=true).
+Ambas fuentes fueron limpiadas, estandarizadas y combinadas en un único dataset por ciudad y año.
 
 ---
 
