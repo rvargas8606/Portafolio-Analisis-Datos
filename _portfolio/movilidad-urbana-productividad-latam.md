@@ -1,7 +1,10 @@
-## Contexto
+---
+title: "Movilidad urbana y productividad económica en ciudades de LATAM"
+excerpt: "Análisis de la relación entre congestión urbana, tiempos de viaje y productividad económica para apoyar decisiones de inversión en infraestructura. Proyecto desarrollado como parte del Bootcamp de Data Analytics en TripleTen."
+---
 
 Este proyecto fue desarrollado como parte del Bootcamp de Data Analytics en **TripleTen**.  
-El análisis se realizó desde la perspectiva de un analista del **Latin American Development Bank**, con el objetivo de evaluar cómo la movilidad urbana influye en la productividad económica de las principales ciudades de América Latina [1](https://zentius-my.sharepoint.com/personal/rvargas_zentius_com/_layouts/15/Doc.aspx?sourcedoc=%7B15B7CC12-4F0A-42CA-A2AB-488B1FC70AF4%7D&file=Proyecto%205%20Movilidad%20Urbana.docx&action=default&mobileredirect=true).
+El análisis se realizó desde la perspectiva de un analista del **Latin American Development Bank**, con el objetivo de evaluar cómo la movilidad urbana influye en la productividad económica de las principales ciudades de América Latina.
 
 ---
 
