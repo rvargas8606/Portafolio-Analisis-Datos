@@ -1,4 +1,3 @@
-#  Proyecto 3 – Análisis de Embudo y Retención (MercadoLibre)
 ---
 title: "Análisis de Embudo y Retención (MercadoLibre)"
 excerpt: "Proyecto desarrollado como parte del Bootcamp de Data Analytics en TripleTen."
