@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A/B Testing: Optimización de Tasa de Conversión"
 excerpt: "Evaluación estadística de variantes de interfaz para maximizar el ARPU y reducir la fricción en el funnel de ventas."
-category: portfolio
 ---
 
 # A/B Testing: Optimización de Landing Page mediante Análisis Estadístico
