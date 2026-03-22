@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "ConnectaTel: Análisis de Churn y Segmentación"
 excerpt: "Procesamiento de 40,000 registros de uso para identificar patrones de abandono y diseñar planes tarifarios de alta rentabilidad."
-category: portfolio
 ---
 
 #  Análisis de Comportamiento de Clientes: ConnectaTel (Telecomunicaciones)
