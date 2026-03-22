@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Análisis de Desempeño Comercial: Andes Retail Group"
 excerpt: "Diagnóstico estratégico de variaciones de ingresos y rentabilidad mediante Power BI y DAX para la optimización de ventas regionales."
-category: portfolio
 ---
 
 # 📊 Análisis de Desempeño Comercial: Andes Retail Group (2024-2025)
