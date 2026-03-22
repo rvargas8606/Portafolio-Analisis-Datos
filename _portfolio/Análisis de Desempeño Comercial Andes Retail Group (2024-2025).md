@@ -3,12 +3,12 @@ title: "Análisis de Desempeño Comercial: Andes Retail Group"
 excerpt: "Diagnóstico estratégico de variaciones de ingresos y rentabilidad mediante Power BI y DAX para la optimización de ventas regionales."
 ---
 
-# 📊 Análisis de Desempeño Comercial: Andes Retail Group (2024-2025)
+#  Análisis de Desempeño Comercial: Andes Retail Group (2024-2025)
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 Este proyecto forma parte de mi formación como **Data Analyst**, donde el objetivo principal fue transformar datos brutos de ventas en un ecosistema de Dashboards interactivos para responder a la pregunta estratégica: **"¿Por qué han variado los ingresos entre 2024 y 2025?"**.
 
-## 🧠 Marco Estratégico SCQA
+##  Marco Estratégico SCQA
 Para la presentación de resultados a la alta gerencia, utilicé el modelo de comunicación estratégica:
 
 * **Situación (Situation):** Operación sólida con $5.53M en ingresos acumulados y una base de 3,821 clientes activos[cite: 1, 6].
@@ -18,7 +18,7 @@ Para la presentación de resultados a la alta gerencia, utilicé el modelo de co
 
 ---
 
-## 🛠️ Tecnologías y Habilidades Aplicadas
+##  Tecnologías y Habilidades Aplicadas
 * **Power BI Desktop:** Diseño de Dashboards e interfaces de usuario (UI/UX).
 * **DAX (Data Analysis Expressions):** Creación de medidas complejas como `Ticket_Promedio`, `Margen Bruto %` y `Crecimiento Ingresos %`.
 * **Power Query:** Limpieza, transformación de datos y creación de columnas condicionales.
@@ -26,14 +26,14 @@ Para la presentación de resultados a la alta gerencia, utilicé el modelo de co
 
 ---
 
-## 🔍 Hallazgos Clave (Insights)
+##  Hallazgos Clave (Insights)
 * **Análisis Temporal:** Identificación de una caída en el rendimiento de **Verano 2025** comparado con 2024, siendo esta la estación con mayor impacto financiero[cite: 1, 6].
 * **Rentabilidad por Segmento:** El **Segmento Premium** lidera en volumen, pero presenta una alta concentración de productos con "Margen Medio", diluyendo la utilidad neta[cite: 1, 6].
 * **Diagnóstico Geográfico:** El mercado de **Perú** presenta cuadros de bajo crecimiento en el Treemap, señalando una necesidad urgente de auditoría de costos logísticos[cite: 1, 6].
 
 ---
 
-## 🚀 Recomendaciones Propuestas
+##  Recomendaciones Propuestas
 1.  **Optimización de Mix en Perú:** Ajustar la oferta en regiones Norte y Centro para elevar el margen operativo[cite: 1, 6].
 2.  **Estrategia de Upselling:** Vincular transacciones de ticket alto (>$1,200) exclusivamente con productos de alta rentabilidad[cite: 1, 6].
 3.  **Monitoreo de Media Operativa:** Establecer umbrales de alerta temprana basados en la media de ventas mensual ($222K - $238K)[cite: 1, 6].
