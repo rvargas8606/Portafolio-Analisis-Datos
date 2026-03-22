@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "NovaRetail+: Comportamiento del Consumidor e Ingresos"
 excerpt: "Estudio correlacional en Python para identificar los drivers críticos de gasto anual y lealtad en e-commerce latinoamericano."
-category: portfolio
 ---
 
 # NovaRetail-An-lisis-Correlacional-de-Comportamiento-del-Cliente-2024
