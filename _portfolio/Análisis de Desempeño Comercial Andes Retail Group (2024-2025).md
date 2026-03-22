@@ -11,10 +11,10 @@ Este proyecto forma parte de mi formación como **Data Analyst**, donde el objet
 ##  Marco Estratégico SCQA
 Para la presentación de resultados a la alta gerencia, utilicé el modelo de comunicación estratégica:
 
-* **Situación (Situation):** Operación sólida con $5.53M en ingresos acumulados y una base de 3,821 clientes activos[cite: 1, 6].
-* **Complicación (Complication):** Contracción de ingresos anuales del 6.6% ($2.86M a $2.67M) y estancamiento de crecimiento en mercados clave como Perú[cite: 1, 6].
-* **Pregunta (Question):** ¿Cómo revertir la tendencia decreciente y optimizar la rentabilidad sin sacrificar la base de clientes? [cite: 1, 6]
-* **Respuesta (Answer):** Implementación de tres pilares: Rebalanceo de mix de productos, enfoque en Valor Premium y activación estacional preventiva[cite: 1, 6].
+* **Situación (Situation):** Operación sólida con $5.53M en ingresos acumulados y una base de 3,821 clientes activos.
+* **Complicación (Complication):** Contracción de ingresos anuales del 6.6% ($2.86M a $2.67M) y estancamiento de crecimiento en mercados clave como Perú.
+* **Pregunta (Question):** ¿Cómo revertir la tendencia decreciente y optimizar la rentabilidad sin sacrificar la base de clientes?
+* **Respuesta (Answer):** Implementación de tres pilares: Rebalanceo de mix de productos, enfoque en Valor Premium y activación estacional preventiva.
 
 ---
 
@@ -27,16 +27,16 @@ Para la presentación de resultados a la alta gerencia, utilicé el modelo de co
 ---
 
 ##  Hallazgos Clave (Insights)
-* **Análisis Temporal:** Identificación de una caída en el rendimiento de **Verano 2025** comparado con 2024, siendo esta la estación con mayor impacto financiero[cite: 1, 6].
-* **Rentabilidad por Segmento:** El **Segmento Premium** lidera en volumen, pero presenta una alta concentración de productos con "Margen Medio", diluyendo la utilidad neta[cite: 1, 6].
-* **Diagnóstico Geográfico:** El mercado de **Perú** presenta cuadros de bajo crecimiento en el Treemap, señalando una necesidad urgente de auditoría de costos logísticos[cite: 1, 6].
+* **Análisis Temporal:** Identificación de una caída en el rendimiento de **Verano 2025** comparado con 2024, siendo esta la estación con mayor impacto financiero.
+* **Rentabilidad por Segmento:** El **Segmento Premium** lidera en volumen, pero presenta una alta concentración de productos con "Margen Medio", diluyendo la utilidad neta.
+* **Diagnóstico Geográfico:** El mercado de **Perú** presenta cuadros de bajo crecimiento en el Treemap, señalando una necesidad urgente de auditoría de costos logísticos.
 
 ---
 
 ##  Recomendaciones Propuestas
-1.  **Optimización de Mix en Perú:** Ajustar la oferta en regiones Norte y Centro para elevar el margen operativo[cite: 1, 6].
-2.  **Estrategia de Upselling:** Vincular transacciones de ticket alto (>$1,200) exclusivamente con productos de alta rentabilidad[cite: 1, 6].
-3.  **Monitoreo de Media Operativa:** Establecer umbrales de alerta temprana basados en la media de ventas mensual ($222K - $238K)[cite: 1, 6].
+1.  **Optimización de Mix en Perú:** Ajustar la oferta en regiones Norte y Centro para elevar el margen operativo.
+2.  **Estrategia de Upselling:** Vincular transacciones de ticket alto (>$1,200) exclusivamente con productos de alta rentabilidad.
+3.  **Monitoreo de Media Operativa:** Establecer umbrales de alerta temprana basados en la media de ventas mensual ($222K - $238K).
 
 ---
 
