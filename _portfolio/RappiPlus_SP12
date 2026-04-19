@@ -1,0 +1,46 @@
+# 📊 Proyecto RappiPlus: De Datos a Decisiones de Negocio (Sprint 12)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 🎯 Objetivo del Proyecto
+Este proyecto simula un entorno real de consultoría para **RappiPlus**, con el fin de evaluar la rentabilidad del servicio, optimizar la inversión en marketing y analizar el comportamiento de los usuarios mediante técnicas avanzadas de procesamiento de datos y visualización interactiva.
+
+## 🛠️ Stack Tecnológico
+- **Python (Pandas/NumPy):** Limpieza de datos, manejo de valores nulos, normalización de categorías y análisis estadístico.
+- **Power BI:** Modelado de datos (Esquema Estrella), creación de medidas DAX (KPIs, ROAS, Evolución Temporal) y diseño de Dashboard UX/UI.
+- **Estadística:** Análisis de experimentos A/B (Checkout UI) y cálculo de intervalos de confianza.
+
+## 📈 Etapas del Proyecto
+
+### 1. Limpieza y Procesamiento (Python)
+Se trabajó en la limpieza profunda de los datasets de órdenes y catálogo para asegurar la **integridad referencial**.
+- Identificación y tratamiento de un 30% de datos con valores nulos en dimensiones geográficas.
+- Corrección de discrepancias en nombres de categorías (Estandarización de tildes y eliminación de espacios en blanco/TRIM).
+- **Logro:** Reducción del error de procesamiento de pedidos al 0%.
+
+### 2. Modelado de Datos y DAX (Power BI)
+Desarrollo de un modelo robusto que conecta ventas, catálogo y marketing.
+- **Medidas Clave:**
+  - `Ventas Totales`: Cálculo dinámico de ingresos brutos.
+  - `ROAS (Return on Ad Spend)`: Eficiencia del gasto publicitario por canal.
+  - `Tendencia de Crecimiento`: Análisis de regresión visual para predicción de corto plazo.
+- **Navegación:** Implementación de menús interactivos para cambiar entre la *Vista Ejecutiva* y el *Análisis Detallado*.
+
+### 3. Análisis de Experimento A/B
+Se analizó el impacto de una nueva interfaz de usuario en el flujo de pago (Checkout).
+- **Hallazgo:** Determinación de si el cambio en la interfaz aumentó significativamente la tasa de conversión utilizando Python para el cálculo de significancia.
+
+## 🖥️ Estructura del Dashboard
+El reporte final consta de dos paneles estratégicos:
+1. **Vista Ejecutiva:** Resumen de alto nivel con KPIs de ventas, distribución por país y tendencia temporal con líneas de referencia (Máx, Mín, Media).
+2. **Análisis Detallado:** Matriz de rendimiento producto-país, dispersión de volumen vs ingreso y análisis de ROAS por canal de adquisición.
+
+## 📂 Archivos del Repositorio
+- `S12 Estudiante_Proyecto_Final.ipynb`: Notebook de Jupyter con todo el proceso de ETL y análisis estadístico.
+- `proyecto-final-SP12.pbix`: Archivo de Power BI Desktop con el Dashboard interactivo.
+
+---
+**Desarrollado por:** Reinier Vargas Jardines  
+**LinkedIn:** [Enlace a tu perfil]
