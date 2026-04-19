@@ -46,4 +46,5 @@ El reporte final consta de dos paneles estratégicos:
 
 ---
 **Desarrollado por:** Reinier Vargas Jardines  
-**LinkedIn:** [Enlace a tu perfil]
+**Contacto:** rvargas86@gmail.com
+**Bootcamp:** Data Analysis Tripleten Sprint 12 - Proyecto Final
